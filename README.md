@@ -21,7 +21,7 @@
 </div>
 
 <div style="font-size:17px; line-height:1.6; color:#222; max-width:800px; margin: 0 auto;">
-  🆓 <strong>Deneme bonusu</strong> ile para yatırmadan kazanmaya başlamak mümkün! Üyelik işlemini tamamladıktan sonra hesabına tanımlanacak bonus sayesinde slot, canlı casino ve daha birçok oyunu ücretsiz deneyebilirsin.
+  🆓 <strong>Deneme bonusu</strong> ile para yatırmadan kazanmaya başlamak mümkün! Üyelik işlemini tamamladıktan sonra hesabına tanımlanacak bonus sayesinde slot, canlı casino ve daha birçok oyunu ücretsiz deneyebilirsin!
 </div>
 
 <div style="font-size:16px; color:#444; max-width:800px; margin: 20px auto;">
